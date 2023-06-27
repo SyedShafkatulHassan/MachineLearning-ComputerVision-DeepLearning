@@ -1,7 +1,7 @@
 
 # Author : Syed Shafkatul Hassan
-# Dataset link : https://www.kaggle.com/code/bonnie13000/starter-new-york-city-airbnb-open-data-c675b3c2-a
-# Using this Dataset I have tryed to predict room_type using neighbourhood,price, minimum_nights,calculated_host_listings_count 
+# Dataset link: https://www.kaggle.com/code/bonnie13000/starter-new-york-city-airbnb-open-data-c675b3c2-a
+# Using this dataset I have tried to predict room type using logistic regression
 # accuracy_score of the code is 0.791290393631415 
 
 

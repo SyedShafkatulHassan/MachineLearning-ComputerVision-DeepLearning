@@ -1,5 +1,8 @@
 
-Author : Syed Shafkatul Hassan
+# Author : Syed Shafkatul Hassan
+# Dataset link: https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
+# Using this dataset I have tried to predict fixed acidity using linear regression 
+# rmse of the code is 1.0240529652205082e-14
 
 
 

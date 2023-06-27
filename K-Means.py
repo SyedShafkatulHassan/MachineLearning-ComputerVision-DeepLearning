@@ -1,5 +1,8 @@
 
-Author : Syed Shafkatul Hassan
+# Author : Syed Shafkatul Hassan
+# Dataset link: https://www.kaggle.com/datasets/uciml/iris
+# Using this dataset I have tried to predict Species type using K-Means algorithm
+# accuracy_score of the code is 0.8333333333333334
 
 import pandas as pan
 import missingno as m
