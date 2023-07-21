@@ -23,7 +23,7 @@ for i, fo in enumerate((os.listdir('/location'))): #enumerate generate iteam and
        im.append(image)
        index.append(i)
 im=np.array(im)
-labels=np.array(index)
+index=np.array(index)
 im = im.astype('float32') / 255.0
 xt, xte, yt, yte = tts(im, index, test_size=0.38, random_state=35)
 knn= k(n_neighbors=3, metric='euclidean')
